@@ -2,4 +2,4 @@
 
 - CRISPR screen in EndoCbH1, Antje Rottner
 
-- RNAseq in three cell lines, Han Sun
+- RNAseq in three cell lines when Calcoco2 is knocked down, Han Sun
