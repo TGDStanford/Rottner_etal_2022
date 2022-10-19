@@ -1,0 +1,4 @@
+## MAGeCK (v0.5.9.2) algorithm (Li et al. 2014) to analyse sgRNA read count enrichment in CRISPR screening samples 
+
+mageck test -k LOWHIGH_screen.count.txt -t LOW1,LOW2 -c HIGH1,HIGH2 -n RRA_screen --paired 
+
